@@ -1,20 +1,18 @@
 ### Hi! My name is Prash and I am a full-stack developer with a knack for problem solving. 
 
-Check out some of my deployed projects: <br/>
-[Lucas' Mansion](https://lucas-mansion.pushed.nz/) <br/>
-[Full-stack Todo list](https://prash-harakeke-24-todo-list.devacademy.nz/)<br/>
-[TOX](https://tox.devacademy.nz/)
+I am a recent boot camp graduate from Dev Academy Aotearoa where I learnt full-stack web development and built on my human skills. This boot camp experience allowed me to understand how I learn best and how to work in a variety of different groups by working on projects both small and large.
 
-### Languages 
+Feel free to look through my projects, I promise they will get bigger and better over time! <br/>
+I'm currently working on [Zenva's](https://academy.zenva.com/) C++ and Python courses, check out my progress in this [repo](https://github.com/SpcyToast/Zenva) <br/>
+I hope to work on making desktop applications in the future!
+
+#### Tech Stack: <br/>
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=typescript)](https://www.typescriptlang.org/)
 [![HTML](	https://img.shields.io/badge/HTML5-black?logo=html5)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/CSS-black?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C++](https://img.shields.io/badge/-C%2B%2B-black?logo=c%2B%2B)](https://cplusplus.com/)
-[![Python](https://img.shields.io/badge/-Python-black?logo=python)](https://www.python.org/)
-
-
-### Tech Stack 
+[![Python](https://img.shields.io/badge/-Python-black?logo=python)](https://www.python.org/) <br/>
 [![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-black?logo=express)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/-ReactJs-black?logo=react)](https://react.dev/)
@@ -25,11 +23,11 @@ Check out some of my deployed projects: <br/>
 [![Jest](https://img.shields.io/badge/Jest-black?logo=Jest)](https://jestjs.io/)
 [![VSCode](https://img.shields.io/badge/Vscode-black?logo=visualstudiocode)](https://code.visualstudio.com/)
 
-I am a recent boot camp graduate from Dev Academy Aotearoa where I learnt full-stack web development and built on my human skills. This boot camp experience allowed me to understand how I learn best and how to work in a variety of different groups by working on projects both small and large.
+#### Check out some of my deployed projects: <br/>
+[Lucas' Mansion](https://lucas-mansion.pushed.nz/) <br/>
+[Full-stack Todo list](https://prash-harakeke-24-todo-list.devacademy.nz/)<br/>
+[TOX](https://tox.devacademy.nz/) 
 
-Feel free to look through my projects, I promise they will get bigger and better over time! <br/>
-I'm currently working on [Zenva's](https://academy.zenva.com/) C++ and Python courses, check out my progress in this [repo](https://github.com/SpcyToast/Zenva) <br/>
-I hope to work on making desktop applications in the future!
 <!--[![Zenva](https://img.shields.io/badge/-zenva-white.svg?logo=data:image/webp;base64,UklGRuQAAABXRUJQVlA4TNgAAAAv/8F/EG9gpm0bS73Kn0XhjMJImWnbxneh9CvpIRwAM23bmE/PltGwjaeBtG0qYXNQCXdw7l/UAzR9FIEYBML7bHZ8x+7BwVEkSY4zZ3+WwUExOsNEIUqiIAqiYGl1zM3qWRH9nwCTP5Lf3OM//If/ENddbsn/lOM//If/CNK4hh/eNISP//Af/iNw4+pet63q8E5QV5p3/If/8B+CGuS3q7r4e2o7e/yH//AfYlnlumP1noc3hF/iP/yH/wjcGn4eXvriP/yH/xCRqX+v5G/MOf7Df/iPcQE=)](https://github.com/SpcyToast/Zenva)-->
 
 #### Contact 
