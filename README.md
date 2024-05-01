@@ -30,6 +30,6 @@ I hope to work on making desktop applications in the future!
 
 <!--[![Zenva](https://img.shields.io/badge/-zenva-white.svg?logo=data:image/webp;base64,UklGRuQAAABXRUJQVlA4TNgAAAAv/8F/EG9gpm0bS73Kn0XhjMJImWnbxneh9CvpIRwAM23bmE/PltGwjaeBtG0qYXNQCXdw7l/UAzR9FIEYBML7bHZ8x+7BwVEkSY4zZ3+WwUExOsNEIUqiIAqiYGl1zM3qWRH9nwCTP5Lf3OM//If/ENddbsn/lOM//If/CNK4hh/eNISP//Af/iNw4+pet63q8E5QV5p3/If/8B+CGuS3q7r4e2o7e/yH//AfYlnlumP1noc3hF/iP/yH/wjcGn4eXvriP/yH/xCRqX+v5G/MOf7Df/iPcQE=)](https://github.com/SpcyToast/Zenva)-->
 
-#### Contact 
+#### Contact: 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashniel/) <br />
 [![Static Badge](https://img.shields.io/badge/-Email-black?logo=gmail)](mailto:prashniel@gmail.com)
