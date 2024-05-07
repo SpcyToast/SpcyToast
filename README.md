@@ -24,9 +24,10 @@ I hope to work on making desktop applications in the future!
 [![VSCode](https://img.shields.io/badge/Vscode-black?logo=visualstudiocode)](https://code.visualstudio.com/)
 
 #### Check out some of my deployed projects: <br/>
-[Lucas' Mansion](https://lucas-mansion.pushed.nz/) <br/>
-[Full-stack Todo list](https://spcytodo.pushed.nz/)<br/>
-[TOX](https://tox.pushed.nz/) 
+Click the logos to see the code repository <br />
+<a href="https://github.com/SpcyToast/Lucas-Mansion"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="Lucas' Mansion code" width="15px"></img></a>[Lucas' Mansion](https://lucas-mansion.pushed.nz/) <br/>
+<a href="https://github.com/SpcyToast/full-stack-todos"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="full stack todo list code" width="15px"></img></a>[Full-stack Todo list](https://spcytodo.pushed.nz/)<br/>
+<a href="https://github.com/SpcyToast/TOX"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="TOX code" width="15px"></img></a>[TOX](https://tox.pushed.nz/) 
 
 <!--[![Zenva](https://img.shields.io/badge/-zenva-white.svg?logo=data:image/webp;base64,UklGRuQAAABXRUJQVlA4TNgAAAAv/8F/EG9gpm0bS73Kn0XhjMJImWnbxneh9CvpIRwAM23bmE/PltGwjaeBtG0qYXNQCXdw7l/UAzR9FIEYBML7bHZ8x+7BwVEkSY4zZ3+WwUExOsNEIUqiIAqiYGl1zM3qWRH9nwCTP5Lf3OM//If/ENddbsn/lOM//If/CNK4hh/eNISP//Af/iNw4+pet63q8E5QV5p3/If/8B+CGuS3q7r4e2o7e/yH//AfYlnlumP1noc3hF/iP/yH/wjcGn4eXvriP/yH/xCRqX+v5G/MOf7Df/iPcQE=)](https://github.com/SpcyToast/Zenva)-->
 
