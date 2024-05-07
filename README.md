@@ -25,8 +25,8 @@ I hope to work on making desktop applications in the future!
 
 #### Check out some of my deployed projects: <br/>
 [Lucas' Mansion](https://lucas-mansion.pushed.nz/) <br/>
-[Full-stack Todo list](https://prash-harakeke-24-todo-list.devacademy.nz/)<br/>
-[TOX](https://tox.devacademy.nz/) 
+[Full-stack Todo list](https://spcytodo.pushed.nz/)<br/>
+[TOX](https://tox.pushed.nz/) 
 
 <!--[![Zenva](https://img.shields.io/badge/-zenva-white.svg?logo=data:image/webp;base64,UklGRuQAAABXRUJQVlA4TNgAAAAv/8F/EG9gpm0bS73Kn0XhjMJImWnbxneh9CvpIRwAM23bmE/PltGwjaeBtG0qYXNQCXdw7l/UAzR9FIEYBML7bHZ8x+7BwVEkSY4zZ3+WwUExOsNEIUqiIAqiYGl1zM3qWRH9nwCTP5Lf3OM//If/ENddbsn/lOM//If/CNK4hh/eNISP//Af/iNw4+pet63q8E5QV5p3/If/8B+CGuS3q7r4e2o7e/yH//AfYlnlumP1noc3hF/iP/yH/wjcGn4eXvriP/yH/xCRqX+v5G/MOf7Df/iPcQE=)](https://github.com/SpcyToast/Zenva)-->
 
